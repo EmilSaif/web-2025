@@ -1,0 +1,54 @@
+* {
+    color: #000000;
+    font-family: "Golos Text";
+}
+
+.home_photo {
+    height: 474px;
+    width: 474px;
+}
+
+.home_comment {
+    line-height: 18px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.home_time {
+    opacity: 0.5;
+    color: #222222;
+    line-height: 18px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.home_person {
+    color: #fff;
+    border-radius: 6px;
+    height: 32px;
+    width: 32px;
+}
+
+.home_more {
+    text-decoration: none;
+    color: #808080;
+    line-height: 18px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.home_surname {
+    text-decoration: none;
+    line-height: 18px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.like {
+    transition: transform 0.2s, box-shadow 0.5s;
+    cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    background: whitesmoke;
+}
+

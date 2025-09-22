@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Владимир Рудольфович",
+      "avatar": "src/images/ava.jpg",
+      "description": "Самый свежий на диком западе...",
+      "createdAt": 1630454400660,
+      "posts_count": 3
+    },
+    {
+      "id": 2,
+      "name": "Антон Батон",
+      "avatar": "src/images/ava.jpg",
+      "description": "Невероятно крутой!",
+      "createdAt": 1630454403330,
+      "posts_count": 2
+    }
+  ]

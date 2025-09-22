@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "image": "src/images/road.png",
+        "description": "Так красиво сегодня на улице!...",
+        "likes": 228,
+        "date": 1
+    },
+    {
+        "id": 2,
+        "user_id": 1,
+        "image": "src/images/profile_6.png",
+        "description": "Ну дела",
+        "likes": 115,
+        "date": 1672545930
+    },
+    {
+        "id": 3,
+        "user_id": 1,
+        "image": "src/images/profile_3.png",
+        "description": "кекс",
+        "likes": 9900,
+        "date": 980004321
+    },
+    {
+        "id": 4,
+        "user_id": 2,
+        "image": "src/images/road.png",
+        "description": "веселье",
+        "likes": 0,
+        "date": 987654321
+    },
+    {
+        "id": 5,
+        "user_id": 2,
+        "image": "src/images/profile_4.png",
+        "description": "ураааааа",
+        "likes": 11,
+        "date": 967654321
+    }
+
+]
