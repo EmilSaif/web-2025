@@ -1,0 +1,3 @@
+http://localhost/cgi-bin/1.cgi?Emil
+http://localhost/cgi-bin/2.cgi?lanterns=1
+http://localhost/cgi-bin/3.cgi?name=Emil
